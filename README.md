@@ -3,6 +3,7 @@
 <p>🔭 Looking forward to contribute more in open source projects!<br>
 <p>🌱 Trying to get better at algorithms in LeetCode</p>
 
+<!--
 <h2>🕹️ Tools and Technologies</h2>
 <div style="display: inline">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
@@ -11,6 +12,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
+-->
 
 <h2>☎️ Contact:</h2>
 <div style="display: inline">
