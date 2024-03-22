@@ -1,7 +1,7 @@
 ### Hello 👋, I am Rodolfo
 
-<p>🔭 Looking forward to contribute more in open source projects!<br>
-<p>🌱 Trying to get better at algorithms in LeetCode</p>
+<p>🔭 Trying to get better at algorithms in LeetCode<br>
+<p>🌱 Working in personal projects!</p>
 
 <!--
 <h2>🕹️ Tools and Technologies</h2>
